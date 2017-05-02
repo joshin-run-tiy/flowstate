@@ -12,13 +12,14 @@ class App extends React.Component {
     }
   }
 
-  
+
 
   render() {
     return (
       <div>
         <p>FlowState</p>
         <Data />
+        <p id="test">JQUERY</p>
       </div>
     )
   }
