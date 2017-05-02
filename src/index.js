@@ -17,7 +17,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <p>FlowState</p>
+        <h1>FlowState</h1>
         <Data />
         <p id="test">JQUERY</p>
       </div>

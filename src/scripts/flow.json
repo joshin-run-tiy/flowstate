@@ -1,0 +1,165 @@
+{
+    "flow": [
+        {
+            "id": 1,
+            "report": "Flow",
+            "report_data": [
+                {
+                    "report_id": 1,
+                    "value": "80",
+                    "timestamp": "2016-04-01T21:00:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "80",
+                    "timestamp": "2016-04-01T21:01:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "80",
+                    "timestamp": "2016-04-01T21:02:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "80",
+                    "timestamp": "2016-04-01T21:03:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "80",
+                    "timestamp": "2016-04-01T21:04:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "80",
+                    "timestamp": "2016-04-01T21:05:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "80",
+                    "timestamp": "2016-04-01T21:06:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "30",
+                    "timestamp": "2016-04-01T21:07:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "30",
+                    "timestamp": "2016-04-01T21:08:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "30",
+                    "timestamp": "2016-04-01T21:09:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "30",
+                    "timestamp": "2016-04-01T21:10:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "30",
+                    "timestamp": "2016-04-01T21:11:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "30",
+                    "timestamp": "2016-04-01T21:12:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "75",
+                    "timestamp": "2016-04-01T21:13:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "75",
+                    "timestamp": "2016-04-01T21:14:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "75",
+                    "timestamp": "2016-04-01T21:15:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "75",
+                    "timestamp": "2016-04-01T21:16:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "75",
+                    "timestamp": "2016-04-01T21:17:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "75",
+                    "timestamp": "2016-04-01T21:18:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "75",
+                    "timestamp": "2016-04-01T21:19:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "75",
+                    "timestamp": "2016-04-01T21:20:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "75",
+                    "timestamp": "2016-04-01T21:21:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "75",
+                    "timestamp": "2016-04-01T21:22:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "75",
+                    "timestamp": "2016-04-01T21:23:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "75",
+                    "timestamp": "2016-04-01T21:24:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "75",
+                    "timestamp": "2016-04-01T21:25:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "75",
+                    "timestamp": "2016-04-01T21:26:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "75",
+                    "timestamp": "2016-04-01T21:27:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "75",
+                    "timestamp": "2016-04-01T21:28:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "75",
+                    "timestamp": "2016-04-01T21:29:00"
+                },
+                {
+                    "report_id": 1,
+                    "value": "75",
+                    "timestamp": "2016-04-01T21:30:00"
+                }
+            ]
+        }
+    ]
+}
