@@ -5,6 +5,15 @@ import Data from './components/Data'
 
 class App extends React.Component {
 
+  constructor(props) {
+    super(props)
+    this.state = {
+      data: Data
+    }
+  }
+
+  
+
   render() {
     return (
       <div>

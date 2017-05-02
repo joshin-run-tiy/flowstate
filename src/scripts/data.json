@@ -1,0 +1,46 @@
+{
+  "flow": [
+    {
+      "id": 1,
+      "report": "Flow",
+      "report_data": [
+        {
+          "report_id": 1,
+          "value": "80",
+          "timestamp": "2016-04-01T21:00:00"
+        },
+        {
+          "report_id": 1,
+          "value": "80",
+          "timestamp": "2016-04-01T21:01:00"
+        },
+        {
+          "report_id": 1,
+          "value": "85",
+          "timestamp": "2016-04-01T21:02:00"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "report": "Flow",
+      "report_data": [
+        {
+          "report_id": 2,
+          "value": "60",
+          "timestamp": "2016-04-01T21:00:00"
+        },
+        {
+          "report_id": 2,
+          "value": "80",
+          "timestamp": "2016-04-01T21:01:00"
+        },
+        {
+          "report_id": 2,
+          "value": "60",
+          "timestamp": "2016-04-01T21:02:00"
+        }
+      ]
+    }
+  ]
+}
