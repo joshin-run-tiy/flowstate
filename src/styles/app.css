@@ -1,15 +1,15 @@
 body {
   margin: 0;
-  padding: 0;
+  padding: 50px;
   font-family: proxima-nova, "Helvetica Neue", Helvetica, arial, sans-serif;
   background-color: #fff; }
 
-.data-title {
-  font-size: 6em;
+.header-title {
+  font-size: 4em;
   font-family: proxima-nova, "Helvetica Neue", Helvetica, arial, sans-serif; }
 
 #test {
   font-family: proxima-nova, "Helvetica Neue", Helvetica, arial, sans-serif;
-  font-size: 8em; }
+  font-size: 2em; }
 
 /*# sourceMappingURL=app.css.map */
