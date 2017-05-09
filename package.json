@@ -23,12 +23,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joshin-run-tiy/flowstate.git"
+    "url": "git+https://github.com/joshin-run/flowstate.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/joshin-run-tiy/flowstate/issues"
+    "url": "https://github.com/joshin-run/flowstate/issues"
   },
-  "homepage": "https://github.com/joshin-run-tiy/flowstate#readme"
+  "homepage": "https://joshin-run.github.io/flowstate"
 }
